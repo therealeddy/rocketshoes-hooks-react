@@ -1,12 +1,12 @@
 <h1 align="center">
-  🚀 Rocketshoes Hooks ReactJS 🚀
+ 💻 Rocketshoes Hooks React 💻
 </h1>
 
 <br>
 
 <div align="center">
 
-[![version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/therealeddy/rocketshoes-hooks-web/releases)<space><space>
+[![version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://github.com/therealeddy/rocketshoes-hooks-react/releases)<space><space>
 [![documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](#overview)
 
 </div>
@@ -15,7 +15,7 @@
 
 ## Overview
 
-ReactJS Rocketshoes application, converting to React Hooks.
+React Rocketshoes application, converting to React Hooks.
 
 - **[Author](#author)**
 - **[License](#license)**
